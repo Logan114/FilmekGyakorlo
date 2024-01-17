@@ -36,4 +36,3 @@ Prospero könyvei;Peter Greenaway;Sir John Gielgud;1991;120
 A félkegyelmű;Akira Kurosawa;Yoshiko Kuga;1951;165
 Parfüm: Egy gyilkos története;Tom Tykwer;Ben Whishaw;2006;147
 Félelem és reszketés Las Vegasban;Terry Gilliam;Johnny Depp;1998;113
-Drive;Nicolas Winding Refn;Ryan Gosling;2011;100
